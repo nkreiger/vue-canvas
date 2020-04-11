@@ -1,3 +1,5 @@
+<img src="static/final.png" alt="final image" width="720px">
+
 ## Vue Canvas Project setup
 ```
 npm install
