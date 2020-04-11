@@ -1,6 +1,6 @@
 <template>
     <div>
-        <canvas :id="'canvas-one'" class="canvas-style" v-on:mousedown="mouseDown"
+        <canvas :id="canvasId" class="canvas-style" v-on:mousedown="mouseDown"
         />
     </div>
 </template>
