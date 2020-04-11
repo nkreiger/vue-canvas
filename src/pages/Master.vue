@@ -30,7 +30,6 @@
         }),
         methods: {
             reset() {
-                console.log(this.$refs);
                 this.$refs.childCanvas.reset();
             }
         },

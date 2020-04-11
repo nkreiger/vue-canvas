@@ -19,9 +19,7 @@
         }),
         methods: {
             reset() {
-                console.log(this.scope);
                 this.scope.project.activeLayer.removeChildren();
-                //this.scope.view.draw();
             },
             pathCreate(scope) {
                 scope.activate();
@@ -36,7 +34,6 @@
                 return new paper.Tool();
             },
             mouseDown() {
-                console.log('mouse down child');
                 // in order to access functions in nested tool
                 let self = this;
 
