@@ -1,6 +1,9 @@
+# Vue Canvas
+VueJS + PaperJS to create a simple, powerful canvas
+
 <img src="static/final.png" alt="final image" width="1000px">
 
-## Vue Canvas Project setup
+## Set Up
 ```
 npm install
 ```
