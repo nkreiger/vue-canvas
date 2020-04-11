@@ -1,4 +1,4 @@
-<img src="static/final.png" alt="final image" width="720px">
+<img src="static/final.png" alt="final image" width="1000px">
 
 ## Vue Canvas Project setup
 ```
